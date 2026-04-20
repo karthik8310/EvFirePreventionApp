@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "510856596566",
+    "project_id": "evfirepreventionapp",
+    "storage_bucket": "evfirepreventionapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510856596566:android:3d648a4e64578ac917bff7",
+        "android_client_info": {
+          "package_name": "com.ev.fireprevention"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUQYBnp0NQ1N9mBywMU_-ofG6Khf_MS3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
