@@ -34,40 +34,58 @@ Android Studio / VS Code
 📂 Project Structure
 EVFirePreventionApp/
 │── app/
-│── build/
-│── gradle/
-│── .idea/
-│── .kotlin/
-│── build.gradle.kts
-│── settings.gradle.kts
-│── gradlew
-│── gradlew.bat
+  │── build/
+  │── gradle/
+  │── .idea/
+  │── .kotlin/
+  │── build.gradle.kts
+  │── settings.gradle.kts
+  │── gradlew
+  │── gradlew.bat
 
 📌 Key Functionalities
 Continuous monitoring of EV battery parameters
+
 Detection of abnormal temperature rise
+
 Triggering alerts for potential fire risks
+
 Improving safety through preventive measures
+
 
 🎯 What I Learned
 Android application development using Kotlin/Java
+
 Working with Gradle and project structures
+
 Implementing real-time monitoring systems
+
 Understanding EV safety challenges
+
 Applying basic AI/ML concepts in real-world problems
+
 🔮 Future Enhancements
+
 Integration with IoT sensors for real-time data
+
 Cloud-based monitoring dashboard
+
 Advanced ML models for accurate prediction
+
 Live vehicle tracking system
+
 Emergency alert system integration
+
 📌 Use Case
 
 This system can be used in:
 
 Electric vehicles for battery safety
+
 Smart vehicle monitoring systems
+
 Automotive safety research
+
 👨‍💻 Author
 
 Karthik Kumar
