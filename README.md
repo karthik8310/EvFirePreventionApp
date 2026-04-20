@@ -8,17 +8,29 @@ This project focuses on enhancing EV safety by monitoring battery conditions and
 
 🛠 Tech Stack
 Java / Kotlin (Android Development)
+                                                                        
 XML (UI Design)
+                                        
 Firebase / Local Data Storage (if used)
+
+                                                  
 Machine Learning Concepts (for prediction logic)
+                          
 Android Studio / VS Code
+  
 ⚙️ Features
-🔍 Real-time battery temperature monitoring
+🔍 Real-time battery temperature monitoring  
+
 ⚠️ Early warning system for overheating detection
+
 📊 Data-driven analysis for safety alerts
+
 📱 User-friendly mobile interface
+
 🔔 Notification system for critical conditions
+
 🧠 AI-based predictive safety mechanism (concept/implementation)
+
 📂 Project Structure
 EVFirePreventionApp/
 │── app/
